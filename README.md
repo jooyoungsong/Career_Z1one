@@ -25,12 +25,6 @@ blog : https://blog.naver.com/hippobee
 
 ## 3) 🌴 Develop environment
 
-
-
-
-
-
-
 ### 💼 DirectoryPath
 ```
 <div>
@@ -51,4 +45,4 @@ webapp
 ```
 
 
-### :movie_camera: Play
+## 3) 🎥 Develop environment
