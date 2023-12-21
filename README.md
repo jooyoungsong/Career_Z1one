@@ -1,5 +1,6 @@
 <h1><b>채용이 궁금해❓ 그럼 Z1one해</b></h1><br>
-<h6>기업회원은 채용절차를 사이트로 관리하고, 개인회원은 기존사이트의 이점을 모아놓은 사이트</h6>
+<h6>기업회원은 채용절차를 사이트로 관리하고, 개인회원은 기존사이트의 이점을 모아놓은 사이트</h6><br>
+
 ## 1) 🖐 Introduce 
 ![stoplogo](https://github.com/RheeMingyu/SemiSemi/assets/108057548/9ee2fdf9-4d9b-424d-8897-be318f1a1084)
 
